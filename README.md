@@ -1,4 +1,4 @@
------------------------ A COMPLETE BEGINNER LANGCHAIN GUIDE-------------------------------
+----------------------- A COMPLETE BEGINNER LANGCHAIN GUIDE-------------------
 🔍🔍🔍🔍🔍🔍🔍🔍
 1-Invoking model response. ✔
 2-creating chains. ✔
